@@ -12,7 +12,7 @@ source:
 build:
   # wimdows needs docker in experimental mode
   skip: true  # [win]
-  number: 0
+  number: 1
 
 requirements:
   build:
